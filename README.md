@@ -39,5 +39,13 @@ python ex8_vector_db.py
 - How to use a vector database for semantic search
 
 ---
+## Hallucianate
+<img width="781" height="377" alt="image" src="https://github.com/user-attachments/assets/80672fd8-187a-42da-8466-4442c938eda2" />
+
+## Tokenization
+<img width="206" height="158" alt="Tokenizatrion" src="https://github.com/user-attachments/assets/453032a3-5c5c-4c2e-92c1-2863d3072f20" />
+
+
+
 
 Explore, experiment, and have fun learning the building blocks of modern AI systems!
