@@ -53,15 +53,16 @@ Characters: In some cases, each letter can be treated as a token (e.g., "AI" →
 Once tokens are created, they are converted into unique numerical IDs that the model can process. 
 How Are Tokens Assigned Numbers?
 Each token is mapped to a unique number based on the model’s vocabulary file, which is essentially a lookup table of all possible tokens the model knows.
-<img width="317" height="173" alt="image" src="https://github.com/user-attachments/assets/aa1baccd-c657-47c7-b2eb-628bc9cf2257" />
 
-<img width="206" height="180" alt="Tokenizatrion" src="https://github.com/user-attachments/assets/453032a3-5c5c-4c2e-92c1-2863d3072f20" />
+<img width="317" height="173" alt="image" src="https://github.com/user-attachments/assets/aa1baccd-c657-47c7-b2eb-628bc9cf2257" />
+<img width="317" height="173" alt="Tokenizatrion" src="https://github.com/user-attachments/assets/453032a3-5c5c-4c2e-92c1-2863d3072f20" />
 
 ##Vectorization
 What is Vectorization?
 Vectorization is the process of representing qualitative information (e.g., text or categories) as quantitative data (e.g., vectors or matrices). This transformation makes it possible for computational models to analyze and interpret the information.
+
 <img width="308" height="244" alt="image" src="https://github.com/user-attachments/assets/3d2562a0-dbe0-468c-98ed-6f0f28e5e1db" />
-<img width="373" height="50" alt="Vectorization_example" src="https://github.com/user-attachments/assets/92a25442-b82d-4428-8c23-d186329e92c3" />
+<img width="308" height="244" alt="Vectorization_example" src="https://github.com/user-attachments/assets/92a25442-b82d-4428-8c23-d186329e92c3" />
 
 ##Attention
 What is attention mechanism?
