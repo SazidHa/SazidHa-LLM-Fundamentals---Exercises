@@ -2,7 +2,7 @@
 
 This folder contains hands-on Python exercises for the following foundational topics in AI engineering:
 
-## Topics Covered
+✅ 1. Topics Covered
 - Hallucination
 - Tokenization
 - Vectorization
@@ -11,7 +11,7 @@ This folder contains hands-on Python exercises for the following foundational to
 - Retrieval-Augmented Generation (RAG)
 - Vector Database Search
 
-## How to Run Each Exercise
+✅ 2. How to Run Each Exercise
 
 1. Make sure you have followed the setup instructions in the main README (virtual environment, requirements, .env file).
 2. Each script is self-contained and can be run individually:
@@ -29,7 +29,7 @@ python ex8_vector_db.py
 - For OpenAI/Azure scripts, ensure your `.env` file is configured with your endpoint, deployment, and API key.
 - For the tokenization and vector DB demos, no API key is needed.
 
-## What You'll Learn
+✅ 3. What You'll Learn
 - How LLMs can hallucinate (make up facts)
 - How text is split into tokens
 - How to get and compare vector embeddings
@@ -37,6 +37,23 @@ python ex8_vector_db.py
 - How to guide models with few-shot examples
 - How to ground answers in private data (RAG)
 - How to use a vector database for semantic search
+
+✅ 4. Add Installation Section
+
+Right now you mention setup, but not directly.
+
+Example:
+
+## Installation
+
+git clone <repo-url>
+cd repo-name
+
+python -m venv .venv
+source .venv/bin/activate   # Mac/Linux
+.venv\Scripts\activate      # Windows
+
+pip install -r requirements.txt
 
 ---
 ## Hallucianate
